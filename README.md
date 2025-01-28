@@ -1,4 +1,2 @@
-# .github
-
 # SurveyBlox Ltd.
 
